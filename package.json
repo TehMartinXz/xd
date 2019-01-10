@@ -1,9 +1,9 @@
 {
   "name": "mafioso"
-  "description": "mafioso",
+  "description" "mafioso",
   "version": "1.0.0",
   "main": "xd"
-  "scripts": {
+  "scripts" {
     "start": "node index.js"
   },
   "dependencies": {
